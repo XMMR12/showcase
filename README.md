@@ -6,6 +6,8 @@
 
 >>[Project 1 - Business Requirements Documentation](https://github.com/XMMR12/showcase/tree/main/Project%201%20%28alogrithm%29)
 
+>>[Project 2 - Diagrams and Analysis](https://github.com/XMMR12/showcase/tree/main/Project%202%20%28logistics%29)
+
 
 ## Pure Javascript with Chart.JS:
 > ![Javascript](https://github.com/XMMR12/showcase/blob/main/chart%20js%20project2.png)

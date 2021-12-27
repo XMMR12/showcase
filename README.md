@@ -9,3 +9,7 @@
 
 ## Data mining using python(getting all the data across ALL Europe):
 > ![Python data mining](https://github.com/XMMR12/showcase/blob/main/Data%20mining%20using%20python(getting%20all%20the%20data%20across%20ALL%20Europe).PNG)
+
+
+## UML:
+> ![UML](https://github.com/XMMR12/showcase/blob/main/Project%201%20(alogrithm)/alogrithm%20UML.PNG)

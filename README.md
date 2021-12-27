@@ -2,7 +2,7 @@
 
 > This is the showcase of some of my work that i have made previously;
 >>![QA TESTING](https://github.com/XMMR12/showcase/tree/main/testing)
->>![Project 1 - Business Requirements Documentation](https://github.com/XMMR12/showcase/tree/main/Project%201%20%28alogrithm%29)
+>>[Project 1 - Business Requirements Documentation](https://github.com/XMMR12/showcase/tree/main/Project%201%20%28alogrithm%29)
 
 
 ## Pure Javascript with Chart.JS:
